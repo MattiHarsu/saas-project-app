@@ -8,6 +8,8 @@ gem 'rails', '4.2.8'
 # 
 gem 'devise'
 gem 'milia', '1.2.1'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 #
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
