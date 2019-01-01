@@ -905,7 +905,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   milia (= 1.2.1)
-  multipart-post (~> 2.0)
+  multipart-post
   pg (~> 0.20)
   rails (= 4.2.8)
   rails_12factor
