@@ -905,6 +905,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   milia (= 1.2.1)
+  multipart-post (~> 2.0)
   pg (~> 0.20)
   rails (= 4.2.8)
   rails_12factor
@@ -919,4 +920,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.17.0.pre.1
+   1.17.3
