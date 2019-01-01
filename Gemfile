@@ -13,7 +13,7 @@ gem 'devise-bootstrap-views'
 gem 'bootstrap-datepicker-rails'
 gem 'aws-sdk'
 gem 'stripe'
-gem 'multipart-post', '~> 2.0'
+gem 'multipart-post'
 #
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
